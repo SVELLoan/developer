@@ -5,7 +5,7 @@ As of Jan. 17, 2023, AFNetworking is deprecated and there will be no further rel
 1. Copy AFNetworking into your project and compile it directly. This gives you full control over the code.
 2. Fork AFNetworking and use the fork in your dependency manager. There will be no official forks but anyone can fork at any time and can even publish those forks under a different name, in accordance with AFNetworking's license.
  
-kaishiapidiansvelloandianicujieshu
+11111
 Moving forward, Alamofire is the suggested migration path for networking in modern Swift. Anyone who needs help making that migration is welcome to ask on [StackOverflow](https://stackoverflow.com) and tag `alamofire` and `afnetworking`, or open a discussion on Alamofire's [GitHub Discussions](https://github.com/Alamofire/Alamofire/discussions) regarding any migration issues or missing features.
 
 ---
